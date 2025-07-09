@@ -1,6 +1,6 @@
 # Air-Quality-Vs-Income-By-County-California
 
-**DATA Acquisition**
+## Data Acquisition
 
 First, we decided to analyze the air quality and income based on counties within California. We found the data using public datasets that we searched for. 
 
@@ -8,7 +8,7 @@ We found the income data,which was income per capita per county in 2023, [over h
 
 We found the air quality data, which was measured in Micrograms per cubic meter (PM2.5) [over here](https://fred.stlouisfed.org/release/tables?eid=266305&rid=175).
 
-**Data Cleaning and Exploratory Data Analysis**
+## Data Cleaning and Exploratory Data Analysis
 
 Next, we created a scatterplot to graph the Air Pollution vs. the Income for all the counties and encountered a few outliers. We used a mathematical formula, called the IQR rule to remove the outliers so a trend would be more visible. 
 
