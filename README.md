@@ -10,4 +10,4 @@ We found the air quality data, which was measured in Micrograms per cubic meter 
 **Data Cleaning and Exploratory Data Analysis**
 Next, we created a scatterplot to graph the Air Pollution vs. the Income for all the counties and encountered a few outliers. We used a mathematical formula, called the IQR rule to remove the outliers so a trend would be more visible. 
 
-To find a correlation, we used linear regression to get a line of best fit. We found the correlation coefficient ($r^2$) to be $\approx{-0.30}$, which indicates some negative correlation. This means the lower the air pollution, the higher the incomes; however, to reiterate, this is a weak correlation.
+To find a correlation, we used linear regression to get a line of best fit. We found the correlation coefficient $r^2 \approx{-0.30}$, which indicates some negative correlation. This means the lower the air pollution, the higher the incomes; however, to reiterate, this is a weak correlation.
